@@ -1,8 +1,0 @@
-{
-    "rust-analyzer.linkedProjects": [
-        ".\\panzers\\Cargo.toml",
-        ".\\panzers\\Cargo.toml",
-        ".\\panzers\\Cargo.toml"
-    ],
-    "rust-analyzer.showUnlinkedFileNotification": false
-}
