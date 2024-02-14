@@ -1,8 +1,11 @@
 [shell]
-prompt = "$ "
+prompt = "λ "
 
-
-
-# CONSTANT
 [predefined]
 version = "0.1"
+
+[prompts]
+lambda = "λ "
+dollar = "$ "
+starship = "❯ "
+arrow = "❯ "
