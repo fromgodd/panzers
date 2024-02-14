@@ -1,0 +1,8 @@
+[shell]
+prompt = "$ "
+
+
+
+# CONSTANT
+[predefined]
+version = "0.1"
